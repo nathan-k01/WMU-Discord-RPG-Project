@@ -12,6 +12,9 @@ dist
 dist-ssr
 *.local
 
+# cloudflare data
+.cloudflared/config.yml
+
 # Editor directories and files
 .vscode/*
 !.vscode/extensions.json
