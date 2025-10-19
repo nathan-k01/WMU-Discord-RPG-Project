@@ -12,6 +12,9 @@ dist
 dist-ssr
 *.local
 
+# hidden env
+.env
+
 # cloudflare data
 .cloudflared/config.yml
 
